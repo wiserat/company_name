@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #f8f1e9;
+  --borders-color: #8d7966;
+  --excentric-text-color: #a8a39d;
+  --secs-divs-color: #d8c8b8;
+  --light-gray: #e2ddd9;
+}
+
+body {
+  cursor: url('./assets/cursor.png'), auto;
+}
